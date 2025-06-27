@@ -56,7 +56,7 @@
 
 - 📧 Email: guptavanshika056@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/vanshika-gupta-7897a8247](https://www.linkedin.com/in/vanshika-gupta-7897a8247)
-- 🌐 Portfolio Website: *(If you make one later, add here)*
+- 🌐 Portfolio Website: [datascienceportfol.io/guptavanshika056](https://datascienceportfol.io/guptavanshika056)
 
 ---
 
